@@ -3,7 +3,7 @@
 // 1️⃣ Identificação do dispositivo
 export function Name()         { return "Machenike G5"; }
 export function VendorId()     { return 0x2345; }
-export function ProductId()    { return 0xE00B; }  // ajuste para 0xE02F se necessário
+export function ProductId()    { return 0xe02f; }  // ajuste para 0xE02F se necessário
 export function Publisher()    { return "Phelipe"; }
 export function Documentation(){ return "https://github.com/lpheliperocha/lpr/blob/main/machenike-g5.plugin.js"; }
 
